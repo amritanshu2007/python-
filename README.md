@@ -1,2 +1,2 @@
 # python-
-mini projects on python 
+mini project on python 
